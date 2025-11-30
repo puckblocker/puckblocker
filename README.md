@@ -29,7 +29,7 @@ Lead UI Developer. In-Progress. This game was made in correlation to a horror-th
 ### **[CAVS UI](https://github.com/HBWright/CAVS-Group-2-HCI)**
 Co-Developer. Implementation of a custom UI for the CAVS (Center For Advanced Vehicular Systems) car backseat to view cameras, system diagnostics, and other important information. The UI has three different profiles to view the UI from, along with four different views for each of the profiles to view different information. This was built for a physical UI that is made to be interacted with five physical buttons.
 
-## ** Misc. Projects**
+## **Misc. Projects**
 ### **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment)**
 Co-Developer. Currently Privated. A small to medium sized database that had two tiers of access, Admin and Customer, that used python and SQL (Was a conceptual models with functioning areas, but was not made to be roled out). Each role had different priviledges fitting their role names. The database supported the adding/removal of different stock with reactivity to purchases. Customer role could add items to their cart and such that is expected with a shopping database. 
 
