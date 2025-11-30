@@ -30,8 +30,8 @@ Lead UI Developer. In-Progress. This game was made in correlation to a horror-th
 Co-Developer. Implementation of a custom UI for the CAVS (Center For Advanced Vehicular Systems) car backseat to view cameras, system diagnostics, and other important information. The UI has three different profiles to view the UI from, along with four different views for each of the profiles to view different information. This was built for a physical UI that is made to be interacted with five physical buttons.
 
 ## ** Misc. Projects**
-### **[Shopping DataBase] (Currently Privated)**
-Co-Developer. A small to medium sized database that had two tiers of access, Admin and Customer, that used python and SQL (Was a conceptual models with functioning areas, but was not made to be roled out). Each role had different priviledges fitting their role names. The database supported the adding/removal of different stock with reactivity to purchases. Customer role could add items to their cart and such that is expected with a shopping database. 
+### **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment)**
+Co-Developer. Currently Privated. A small to medium sized database that had two tiers of access, Admin and Customer, that used python and SQL (Was a conceptual models with functioning areas, but was not made to be roled out). Each role had different priviledges fitting their role names. The database supported the adding/removal of different stock with reactivity to purchases. Customer role could add items to their cart and such that is expected with a shopping database. 
 
 ### **[To Do List](https://github.com/puckblocker/ToDoList)**
 Solo Developer. A small web-based app that implements a simple to do list. This project serves as a demonstration of basic HTML, CSS, and TypeScript implementation.
@@ -39,5 +39,5 @@ Solo Developer. A small web-based app that implements a simple to do list. This 
 ### **[Neet/LeetCode Solution](https://github.com/puckblocker/NeetCode-LeetCode-Solutions)**
 Solo Developer. This project is a compilation of my solutions to NeetCode and LeetCode problems. This serves as a demonstration of algorithm based solutions to problems.
 
-### **[](https://github.com/GaVELab/Player-Vis-Survey)**
+### **[Player Visualization Research](https://github.com/GaVELab/Player-Vis-Survey)**
 Researcher. Currently Privated. This is a repo that will eventually have it's findings published in a paper, once completed. This portion was made with the help of the Mississippi State University professor, Dr. T.J., and a fellow student researcher. This research was made with the goal of viewing how and why video game players gravitate towards creating visualizations for their needs, along with how this resembles professional visualizations.
