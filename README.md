@@ -8,6 +8,13 @@ Preferred Language: C languages, mainly C++
 Currently studying graphics, data structures, algorithms, and web development using React
 
 # **Featured Projects**
+## **Computer Graphics Projects**
+### **[Collection of Computer Graphics Implementation](https://github.com/puckblocker/Computer-Graphics-Project-Collection)**
+This project implements different core principle of computer graphics. Some of which include: Camera and Viewport Generation, Ray Generation, Transforms, Intersection
+
+### **[Great Bully Render Off](https://github.com/puckblocker/Great-Bully-RenderOff-Computer-Graphics-)**
+Co-Developer. This render waws made in correlation to the Great Bully Render Off for Computer Graphics. This project implements perlin noise, artistic shading (cel and hue), lambertian diffuse, ideal specular, lighting (area, point, and directional), and tone mapping.
+
 ## **VR Projects**
 ### **[Dungeon Delving VR](https://github.com/TeeterHood/VR_Challenge3_mini)**
 Lead Environment Designer. This project implemented physical embodiement through a real-world large stick that took the place of your hand and was reactive to the environment. Implemented Meta SDK for hand tracking. Use of animation to add enemies into the dungeon for better immersion. Created a dungeon environment to put the player into the world of an adventurer going through a dungeon.
