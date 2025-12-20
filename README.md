@@ -26,7 +26,7 @@ Lead Programmer. Creation of teleportation based movement system, that does not 
 Lead Environment Designer. This project demonstrates the basics of VR experiences, with the goal of placing the user into a stagnant environment. This environment throws the user into an acnient sunken city in a future where dinosaurs have re-emerged as an intelligent species and have taken over the world.
 
 ## **Game Projects**
-### **[Gambler's Sin]**
+### **[Gambler's Sin](https://github.com/puckblocker/GamblersSin)**
 Solo Developer. Currently privated until complete to prevent unauthorized access. I have developed all of the art and animation and am currently working on programming. This is a 2D pixel game that uses purely custom assets made by myself. The game places the player as a gambler facing heavenly punishment in the form of the seven layers of Hell. He must descend the layers while using a custom-made luck system that determines all aspects of gameplay (weapons, perks, etc.), without losing himself to the temptations of eternal gambling.
 
 ### **[Immolation](https://github.com/Haywinkler05/Immolation)**
