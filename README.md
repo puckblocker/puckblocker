@@ -1,7 +1,7 @@
 ## Hello, I'm Seth Hird
 
-Studying Computer Science at Mississippi State University
-Will receive a Bachelor's in Computer Science in December, 2025 and will pursue a Master's afterwards
+Studying Computer Science at Mississippi State University.
+I received a Bachelor's degree in Computer Science in December, 2025 and am currently pursuing a Master's degree in the same field.
 Currently working on my game called "Gambler's Sin"
 Pursuing a career in game development
 Preferred Language: C languages, mainly C++
