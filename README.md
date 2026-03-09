@@ -16,7 +16,7 @@ This project implements different core principle of computer graphics. Some of w
 Co-Developer. This render waws made in correlation to the Great Bully Render Off for Computer Graphics. This project implements perlin noise, artistic shading (cel and hue), lambertian diffuse, ideal specular, lighting (area, point, and directional), and tone mapping.
 
 ### **[Whitted Ray Tracer](https://github.com/puckblocker/Custom-Ray-Tracer)**
-Solo developer. This is my implementation of a whitted ray tracer using C++. For imaging I utilized OpenGL and for the math library I used glm. This ray tracer uses a PBR BRDF and is capable of rendering glass, metal, and a few other materials.
+Solo developer. This is my implementation of a whitted ray tracer using C++. For imaging I utilized OpenGL and for the math library I used glm. This ray tracer uses a PBR BRDF and is capable of rendering glass, metal, and a few other materials, along with featuring things like motion blur, MSAA and depth of field
 
 ## **VR Projects**
 ### **[Dungeon Delving VR](https://github.com/TeeterHood/VR_Challenge3_mini)**
