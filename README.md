@@ -32,13 +32,10 @@ Lead Environment Designer. This project demonstrates the basics of VR experience
 ### **[Gambler's Sin](https://github.com/puckblocker/GamblersSin)**
 Solo Developer. Currently privated until complete to prevent unauthorized access. I have developed all of the art and animation and am currently working on programming. This is a 2D pixel game that uses purely custom assets made by myself. The game places the player as a gambler facing heavenly punishment in the form of the seven layers of Hell. He must descend the layers while using a custom-made luck system that determines all aspects of gameplay (weapons, perks, etc.), without losing himself to the temptations of eternal gambling.
 
-### **[Immolation](https://github.com/Haywinkler05/Immolation)**
-Lead UI Developer. In-Progress. This game was made in correlation to a horror-themed game jam. The game aims to throw the play into a hybrid 2D, 3D world where the player must obtain God's forgiveness while scavenging through limbo while being pursued by one of God's top angels.
-
-### **[Gamer Rage] (https://github.com/puckblocker/GamerRage)**
+### **[Gamer Rage](https://github.com/puckblocker/GamerRage)**
 Solo Developer. Completed. This game was made in correlation to a rage-themed game jam. The game aims to throw you into a gamer's shoes who isnt having the best of times playing the brand new game, Lone Asteroid.
 
-### **[Crack A Case] (https://github.com/puckblocker/CrackACaseGame)**
+### **[Crack A Case](https://github.com/puckblocker/CrackACaseGame)**
 Co-Developer. Responsible for all character and npc sprites, animations, and world elements (tiles, vanity sprites). This game takes you back to the mid 1920's during the prohibition. You are a private detective tasked with busting a notorious crime mafia smuggling alcohol, but be careful not to be too suspicious.
 
 ## **Web & App Projects**
