@@ -1,22 +1,25 @@
 ## Hello, I'm Seth Hird
 
 Studying Computer Science at Mississippi State University.
-I received a Bachelor's degree in Computer Science in December, 2025 and am currently pursuing a Master's degree in the same field.
-Currently working on my game called "Gambler's Sin"
-Pursuing a career in game development
+I received a Bachelor's degree in Computer Science in December, 2025 and am currently pursuing my Master's.
+Currently working on my game called "Gambler's Sin" and a custom path tracer.
+Pursuing a career in game development & computer graphics.
 Preferred Language: C languages, mainly C++
 Currently studying graphics, data structures, algorithms, and web development using React
 
 # **Featured Projects**
 ## **Computer Graphics Projects**
+### **[Ray Tracer](https://github.com/puckblocker/Custom-Ray-Tracer)**
+Solo developer. The repo includes multiple of my custom ray tracers, these include a spectral path tracer, an rgb path tracer, and a whitted ray tracer (all instances use C++). For imaging I utilized OpenGL and for the math library I used glm. Each implementation has different additional features, with the spectral path tracer being the final version with the most features overall. Some of the features include thin-layered BRDFs, depth of field, motion blur, etc. This is also the foundation for my GPU ray tracer.
+
+### **[GPU Ray Tracer](https://github.com/puckblocker/RayTracerGPU)**
+Solo developer. This repo features a custom built GPU-based path tracer. This was built using openGL and C++ in combination. Fully functional with plans to add to it.
+
 ### **[Collection of Computer Graphics Implementation](https://github.com/puckblocker/Computer-Graphics-Project-Collection)**
 This project implements different core principle of computer graphics. Some of which include: Camera and Viewport Generation, Ray Generation, Transforms, Intersection
 
 ### **[Great Bully Render Off](https://github.com/puckblocker/Great-Bully-RenderOff-Computer-Graphics-)**
 Co-Developer. This render waws made in correlation to the Great Bully Render Off for Computer Graphics. This project implements perlin noise, artistic shading (cel and hue), lambertian diffuse, ideal specular, lighting (area, point, and directional), and tone mapping.
-
-### **[Whitted Ray Tracer](https://github.com/puckblocker/Custom-Ray-Tracer)**
-Solo developer. This is my implementation of a whitted ray tracer using C++. For imaging I utilized OpenGL and for the math library I used glm. This ray tracer uses a PBR BRDF and is capable of rendering glass, metal, and a few other materials, along with featuring things like motion blur, MSAA and depth of field
 
 ## **VR Projects**
 ### **[Dungeon Delving VR](https://github.com/TeeterHood/VR_Challenge3_mini)**
@@ -29,6 +32,9 @@ Lead Programmer. Creation of teleportation based movement system, that does not 
 Lead Environment Designer. This project demonstrates the basics of VR experiences, with the goal of placing the user into a stagnant environment. This environment throws the user into an acnient sunken city in a future where dinosaurs have re-emerged as an intelligent species and have taken over the world.
 
 ## **Game Projects**
+### **[Last Knight of The Sun](https://github.com/TagReaper/The-Last-Knight-of-the-Sun)**
+Developer. This game is a 2D pixel castlevania rogue-lite. Features primarily custom assets (music, voice-acting, animations, tile-sets). This game was made with a team of developers and features a knight taking on the eldritch horrors spawned from the guardians above.
+
 ### **[Gambler's Sin](https://github.com/puckblocker/GamblersSin)**
 Solo Developer. Currently privated until complete to prevent unauthorized access. I have developed all of the art and animation and am currently working on programming. This is a 2D pixel game that uses purely custom assets made by myself. The game places the player as a gambler facing heavenly punishment in the form of the seven layers of Hell. He must descend the layers while using a custom-made luck system that determines all aspects of gameplay (weapons, perks, etc.), without losing himself to the temptations of eternal gambling.
 
