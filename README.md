@@ -28,9 +28,6 @@ Lead Environment Designer. This project implemented physical embodiement through
 ### **[Art Museum VR](https://github.com/SChristenson24/G6_C2_VXR)**
 Lead Programmer. Creation of teleportation based movement system, that does not use the pre-built teleportation feature. The environment throws the player into an art museum as a visitor that allows the user to teleport to view all the different artworks.
 
-### **[Sunken City](https://github.com/loganswitzer01/VXR_Team_6_Challenge_1)**
-Lead Environment Designer. This project demonstrates the basics of VR experiences, with the goal of placing the user into a stagnant environment. This environment throws the user into an acnient sunken city in a future where dinosaurs have re-emerged as an intelligent species and have taken over the world.
-
 ## **Game Projects**
 ### **[Last Knight of The Sun](https://github.com/TagReaper/The-Last-Knight-of-the-Sun)**
 Developer. This game is a 2D pixel castlevania rogue-lite. Features primarily custom assets (music, voice-acting, animations, tile-sets). This game was made with a team of developers and features a knight taking on the eldritch horrors spawned from the guardians above.
@@ -54,9 +51,6 @@ This C++ derived programming language was made with the skeleton provided by Der
 
 ### **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment)**
 Co-Developer. Currently Privated. A small to medium sized database that had two tiers of access, Admin and Customer, that used python and SQL (Was a conceptual models with functioning areas, but was not made to be roled out). Each role had different priviledges fitting their role names. The database supported the adding/removal of different stock with reactivity to purchases. Customer role could add items to their cart and such that is expected with a shopping database. 
-
-### **[To Do List](https://github.com/puckblocker/ToDoList)**
-Solo Developer. A small web-based app that implements a simple to do list. This project serves as a demonstration of basic HTML, CSS, and TypeScript implementation.
 
 ### **[Neet/LeetCode Solution](https://github.com/puckblocker/NeetCode-LeetCode-Solutions)**
 Solo Developer. This project is a compilation of my solutions to NeetCode and LeetCode problems. This serves as a demonstration of algorithm based solutions to problems.
