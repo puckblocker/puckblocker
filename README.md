@@ -8,7 +8,7 @@ I am a Computer Science Master's student at Mississippi State University, where 
 
 ##  Let's Connect
 *    **Email:** [hirdseth9@gmail.com](mailto:hirdseth9@gmail.com)
-*    **LinkedIn:** [linkedin.com/in/yourprofile](#) *(Add your link here!)*
+*    **LinkedIn:** [linkedin.com/in/seth-hird-474b9a388](https://www.linkedin.com/in/seth-hird-474b9a388/)
 
 ---
 
