@@ -1,59 +1,38 @@
-## Hello, I'm Seth Hird
+#  Hello, I'm Seth Hird
 
-Studying Computer Science at Mississippi State University.
-I received a Bachelor's degree in Computer Science in December, 2025 and am currently pursuing my Master's.
-Currently working on my game called "Gambler's Sin" and a custom path tracer.
-Pursuing a career in game development & computer graphics.
-Preferred Language: C languages, mainly C++
-Currently studying graphics, data structures, algorithms, and web development using React
+I am a Computer Science Master's student at Mississippi State University, where I also serve as a teaching assistant and an officer for the Video Game Design Club. I am actively pursuing a career in game development and computer graphics, with a strong focus on rendering architecture and 2D game design.
 
-# **Featured Projects**
-## **Computer Graphics Projects**
-### **[Ray Tracer](https://github.com/puckblocker/Custom-Ray-Tracer)**
-Solo developer. The repo includes multiple of my custom ray tracers, these include a spectral path tracer, an rgb path tracer, and a whitted ray tracer (all instances use C++). For imaging I utilized OpenGL and for the math library I used glm. Each implementation has different additional features, with the spectral path tracer being the final version with the most features overall. Some of the features include thin-layered BRDFs, depth of field, motion blur, etc. This is also the foundation for my GPU ray tracer.
+*    **Education:** B.S. in Computer Science (Dec 2025) | Currently pursuing M.S. at MSU
+*    **Current Focus:** Developing a custom GPU path tracer and my indie game, *Gambler's Sin*
+*    **Tech Stack & Tools:** C, C++, Python, React, OpenGL, GLM, Unity, Unreal Engine, Aseprite
 
-### **[GPU Ray Tracer](https://github.com/puckblocker/RayTracerGPU)**
-Solo developer. This repo features a custom built GPU-based path tracer. This was built using openGL and C++ in combination. Fully functional with plans to add to it.
+##  Let's Connect
+*    **Email:** [hirdseth9@gmail.com](mailto:hirdseth9@gmail.com)
+*    **LinkedIn:** [linkedin.com/in/yourprofile](#) *(Add your link here!)*
 
-### **[Collection of Computer Graphics Implementation](https://github.com/puckblocker/Computer-Graphics-Project-Collection)**
-This project implements different core principle of computer graphics. Some of which include: Camera and Viewport Generation, Ray Generation, Transforms, Intersection
+---
 
-### **[Great Bully Render Off](https://github.com/puckblocker/Great-Bully-RenderOff-Computer-Graphics-)**
-Co-Developer. This render waws made in correlation to the Great Bully Render Off for Computer Graphics. This project implements perlin noise, artistic shading (cel and hue), lambertian diffuse, ideal specular, lighting (area, point, and directional), and tone mapping.
+##  Featured Projects
 
-## **VR Projects**
-### **[Dungeon Delving VR](https://github.com/TeeterHood/VR_Challenge3_mini)**
-Lead Environment Designer. This project implemented physical embodiement through a real-world large stick that took the place of your hand and was reactive to the environment. Implemented Meta SDK for hand tracking. Use of animation to add enemies into the dungeon for better immersion. Created a dungeon environment to put the player into the world of an adventurer going through a dungeon.
+###  Computer Graphics & Engine Architecture
+*   **[GPU Ray Tracer](https://github.com/puckblocker/RayTracerGPU):** A hardware-accelerated path tracer built with **C++** and **OpenGL** compute shaders. Fully functional with active development for additional rendering features.
+*   **[Custom Ray Tracer](https://github.com/puckblocker/Custom-Ray-Tracer):** A repository featuring multiple CPU-based ray tracers (Spectral, RGB, and Whitted). Built using **C++**, **OpenGL**, and **GLM**. The spectral implementation features thin-layered BRDFs, depth of field, and motion blur, serving as the foundational architecture for my GPU tracer.
+*   **[Great Bully Render Off](https://github.com/puckblocker/Great-Bully-RenderOff-Computer-Graphics-):** A collaborative graphics project implementing Perlin noise, artistic shading (cel and hue), Lambertian diffuse, ideal specular, diverse lighting models, and tone mapping.
+*   **[Graphics Implementation Collection](https://github.com/puckblocker/Computer-Graphics-Project-Collection):** A practical implementation of core computer graphics principles, including camera/viewport generation, ray generation, transforms, and mesh intersections.
 
-### **[Art Museum VR](https://github.com/SChristenson24/G6_C2_VXR)**
-Lead Programmer. Creation of teleportation based movement system, that does not use the pre-built teleportation feature. The environment throws the player into an art museum as a visitor that allows the user to teleport to view all the different artworks.
+###  Game Development
+*   **[Gambler's Sin](https://github.com/puckblocker/GamblersSin):** *(Private Repository)* A 2D pixel game where a gambler descends the seven layers of Hell. Features a custom luck-based mechanic that determines all aspects of gameplay. I am the solo developer and artist, creating all custom assets and animations. 
+*   **[Last Knight of The Sun](https://github.com/TagReaper/The-Last-Knight-of-the-Sun):** A 2D pixel Castlevania rogue-lite. Developed collaboratively, featuring custom music, voice-acting, animations, and tilesets. 
+*   **[Crack A Case](https://github.com/puckblocker/CrackACaseGame):** A 1920s prohibition-era detective game. Co-developed the project, serving as the lead for all character/NPC sprites, animations, and world elements.
+*   **[Gamer Rage](https://github.com/puckblocker/GamerRage):** A completed rage-themed game jam project putting the player in the shoes of a frustrated gamer.
 
-## **Game Projects**
-### **[Last Knight of The Sun](https://github.com/TagReaper/The-Last-Knight-of-the-Sun)**
-Developer. This game is a 2D pixel castlevania rogue-lite. Features primarily custom assets (music, voice-acting, animations, tile-sets). This game was made with a team of developers and features a knight taking on the eldritch horrors spawned from the guardians above.
+###  VR Experiences
+*   **[Dungeon Delving VR](https://github.com/TeeterHood/VR_Challenge3_mini):** Lead Environment Designer. Implemented physical embodiment using a real-world prop reactive to the virtual environment via the **Meta SDK** for hand tracking. 
+*   **[Art Museum VR](https://github.com/SChristenson24/G6_C2_VXR):** Lead Programmer. Engineered a custom teleportation-based movement system from scratch for a virtual art museum experience.
 
-### **[Gambler's Sin](https://github.com/puckblocker/GamblersSin)**
-Solo Developer. Currently privated until complete to prevent unauthorized access. I have developed all of the art and animation and am currently working on programming. This is a 2D pixel game that uses purely custom assets made by myself. The game places the player as a gambler facing heavenly punishment in the form of the seven layers of Hell. He must descend the layers while using a custom-made luck system that determines all aspects of gameplay (weapons, perks, etc.), without losing himself to the temptations of eternal gambling.
-
-### **[Gamer Rage](https://github.com/puckblocker/GamerRage)**
-Solo Developer. Completed. This game was made in correlation to a rage-themed game jam. The game aims to throw you into a gamer's shoes who isnt having the best of times playing the brand new game, Lone Asteroid.
-
-### **[Crack A Case](https://github.com/puckblocker/CrackACaseGame)**
-Co-Developer. Responsible for all character and npc sprites, animations, and world elements (tiles, vanity sprites). This game takes you back to the mid 1920's during the prohibition. You are a private detective tasked with busting a notorious crime mafia smuggling alcohol, but be careful not to be too suspicious.
-
-## **Web & App Projects**
-### **[CAVS UI](https://github.com/HBWright/CAVS-Group-2-HCI)**
-Co-Developer. Implementation of a custom UI for the CAVS (Center For Advanced Vehicular Systems) car backseat to view cameras, system diagnostics, and other important information. The UI has three different profiles to view the UI from, along with four different views for each of the profiles to view different information. This was built for a physical UI that is made to be interacted with five physical buttons.
-
-## **Misc. Projects**
-### **[Custom Programming Language](https://github.com/puckblocker/Custom-Programming-Language)**
-This C++ derived programming language was made with the skeleton provided by Derek Willis. The features include: mathematical functions (+,-,*,^, %, ++, --), comparison, relational, and looping.
-
-### **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment)**
-Co-Developer. Currently Privated. A small to medium sized database that had two tiers of access, Admin and Customer, that used python and SQL (Was a conceptual models with functioning areas, but was not made to be roled out). Each role had different priviledges fitting their role names. The database supported the adding/removal of different stock with reactivity to purchases. Customer role could add items to their cart and such that is expected with a shopping database. 
-
-### **[Neet/LeetCode Solution](https://github.com/puckblocker/NeetCode-LeetCode-Solutions)**
-Solo Developer. This project is a compilation of my solutions to NeetCode and LeetCode problems. This serves as a demonstration of algorithm based solutions to problems.
-
-### **[Player Visualization Research](https://github.com/GaVELab/Player-Vis-Survey)**
-Researcher. Currently Privated. This is a repo that will eventually have it's findings published in a paper, once completed. This portion was made with the help of the Mississippi State University professor, Dr. T.J., and a fellow student researcher. This research was made with the goal of viewing how and why video game players gravitate towards creating visualizations for their needs, along with how this resembles professional visualizations.
+###  Web, App & Misc. Projects
+*   **[CAVS UI](https://github.com/HBWright/CAVS-Group-2-HCI):** A custom interface built for the Center For Advanced Vehicular Systems. Designed for a physical 5-button hardware setup, featuring multiple user profiles and diagnostic views.
+*   **[Custom Programming Language](https://github.com/puckblocker/Custom-Programming-Language):** A **C++** derived programming language featuring mathematical functions, relational comparisons, and looping capabilities.
+*   **[NeetCode/LeetCode Solutions](https://github.com/puckblocker/NeetCode-LeetCode-Solutions):** A compiled repository of algorithmic problem-solving and data structure implementations.
+*   **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment):** *(Private Repository)* A dual-tier access (Admin/Customer) database built with **Python** and **SQL**.
+*   **[Player Visualization Research](https://github.com/GaVELab/Player-Vis-Survey):** *(Private Repository)* Collaborative academic research investigating how and why video game players create custom data visualizations.
