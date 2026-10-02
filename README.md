@@ -33,6 +33,5 @@ I am a Computer Science Master's student at Mississippi State University, where 
 ###  Web, App & Misc. Projects
 *   **[CAVS UI](https://github.com/HBWright/CAVS-Group-2-HCI):** A custom interface built for the Center For Advanced Vehicular Systems. Designed for a physical 5-button hardware setup, featuring multiple user profiles and diagnostic views.
 *   **[Custom Programming Language](https://github.com/puckblocker/Custom-Programming-Language):** A **C++** derived programming language featuring mathematical functions, relational comparisons, and looping capabilities.
-*   **[NeetCode/LeetCode Solutions](https://github.com/puckblocker/NeetCode-LeetCode-Solutions):** A compiled repository of algorithmic problem-solving and data structure implementations.
 *   **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment):** *(Private Repository)* A dual-tier access (Admin/Customer) database built with **Python** and **SQL**.
 *   **[Player Visualization Research](https://github.com/GaVELab/Player-Vis-Survey):** *(Private Repository)* Collaborative academic research investigating how and why video game players create custom data visualizations.
