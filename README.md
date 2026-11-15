@@ -16,6 +16,7 @@ I am a Computer Science Master's student at Mississippi State University, where 
 
 ###  Computer Graphics & Engine Architecture
 *   **[GPU Ray Tracer](https://github.com/puckblocker/RayTracerGPU):** A hardware-accelerated path tracer built with **C++** and **OpenGL** compute shaders. Fully functional with active development for additional rendering features.
+*   **[U-Net Denoiser](https://github.com/puckblocker/U-Net-Denoiser):** An edge-aware deep learning model built with **PyTorch** and **CUDA**. Designed to clean Monte Carlo path-traced renders using 16-channel G-buffers and a custom composite loss function (MSE, SSIM, Sobel). 
 *   **[Custom Ray Tracer](https://github.com/puckblocker/Custom-Ray-Tracer):** A repository featuring multiple CPU-based ray tracers (Spectral, RGB, and Whitted). Built using **C++**, **OpenGL**, and **GLM**. The spectral implementation features thin-layered BRDFs, depth of field, and motion blur, serving as the foundational architecture for my GPU tracer.
 *   **[Great Bully Render Off](https://github.com/puckblocker/Great-Bully-RenderOff-Computer-Graphics-):** A collaborative graphics project implementing Perlin noise, artistic shading (cel and hue), Lambertian diffuse, ideal specular, diverse lighting models, and tone mapping.
 *   **[Graphics Implementation Collection](https://github.com/puckblocker/Computer-Graphics-Project-Collection):** A practical implementation of core computer graphics principles, including camera/viewport generation, ray generation, transforms, and mesh intersections.
