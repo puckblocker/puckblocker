@@ -4,7 +4,7 @@ I am a Computer Science Master's student at Mississippi State University, where 
 
 *    **Education:** B.S. in Computer Science (Dec 2025) | Currently pursuing M.S. at MSU
 *    **Current Focus:** Developing a custom GPU path tracer and my indie game, *Gambler's Sin*
-*    **Tech Stack & Tools:** C, C++, Python, React, OpenGL, GLM, Unity, Unreal Engine, Aseprite
+*    **Tech Stack & Tools:** C, C++, Python, React, Javascript, OpenGL, GLM, Vulkan, Unity, Unreal Engine, Aseprite
 
 ##  Let's Connect
 *    **Email:** [hirdseth9@gmail.com](mailto:hirdseth9@gmail.com)
@@ -32,6 +32,7 @@ I am a Computer Science Master's student at Mississippi State University, where 
 *   **[Art Museum VR](https://github.com/SChristenson24/G6_C2_VXR):** Lead Programmer. Engineered a custom teleportation-based movement system from scratch for a virtual art museum experience.
 
 ###  Web, App & Misc. Projects
+*   **[PokePacker](https://github.com/puckblocker/PokePacker):** A custom e-commerce website for purchasing and selling Pokemon cards, featuring buyer, seller, admin, and visitor capabilities. Built using **React**, **Javascript**, and **PostgreSQL**.
 *   **[CAVS UI](https://github.com/HBWright/CAVS-Group-2-HCI):** A custom interface built for the Center For Advanced Vehicular Systems. Designed for a physical 5-button hardware setup, featuring multiple user profiles and diagnostic views.
 *   **[Custom Programming Language](https://github.com/puckblocker/Custom-Programming-Language):** A **C++** derived programming language featuring mathematical functions, relational comparisons, and looping capabilities.
 *   **[Shopping DataBase](https://github.com/Methods-And-Development-Group-18/Coding-Assignment):** *(Private Repository)* A dual-tier access (Admin/Customer) database built with **Python** and **SQL**.
